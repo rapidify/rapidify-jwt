@@ -1,0 +1,14 @@
+{
+  "name": "rapidify-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify-plugin": "^1.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15"
+  }
+}
